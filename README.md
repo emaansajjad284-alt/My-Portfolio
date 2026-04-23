@@ -14,13 +14,9 @@ I am **Emaan Bint E Sajjad**, a tech enthusiast focused on turning complex data 
 - **Tools:** Pandas, Tableau, Git/GitHub, VS Code.
 - **Backend:** Node.js, Express, MongoDB.
 
-## 📁 Featured Projects
-- **[Interactive Calculator](https://github.com/emaansajjad284-alt/Calculator-Project):** A functional web calculator.
-- **[Image Gallery](https://github.com/emaansajjad284-alt/Image-Gallery):** A responsive CSS grid project.
+
 
 ## 📬 Contact Me
 - **GitHub:** [@emaansajjad284-alt](https://github.com/emaansajjad284-alt)
-- **Kaggle:** [My Kaggle Profile]
-
----
+- ---
 *Built with passion and code by Emaan Bint E Sajjad.*
